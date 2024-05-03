@@ -164,7 +164,7 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color:darkturquoise;
+    background: linear-gradient(to right,red,black);
     min-height: 20vh;
   }
   
@@ -184,6 +184,7 @@ footer {
   
   #redes-sociales i {
     font-size: 50px;
+    color:dark;
   }
   
   #redes-sociales div {
